@@ -9,7 +9,7 @@ int main()
 	printf("Before Swapping a= %d and b= %d\n",a,b);
 	c=a*b;       //a variable c which stores a*b
 	a=c/a;       //this does the swapping by logic of multiplication
-	b=c/b;       //swapping
+	b=c/b;       //swapping by logic of multiplication
 	printf("After Swapping a= %d and b= %d",a,b);
 	return 0;
 }
